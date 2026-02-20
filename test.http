@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/chat
+Content-Type: application/json
+
+{
+  "sessionId": "user1",
+  "message": "How many leaves do we get?"
+}
